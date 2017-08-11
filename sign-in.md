@@ -9,3 +9,33 @@
 
 
 
+#### URL
+
+---
+
+Open Google Chrome and Visit `https://fs-wellington.adenservices.com`.
+
+#### 
+
+#### ID
+
+---
+
+Your sign in id is the lunch card id. If you are not sure about the id, please contact `School`.
+
+#### 
+
+#### Password
+
+---
+
+Initial password is the same lunch card id. You can change it after sccessful sigin in. If you have trouble sing in or lost your password, please write to `wcis@adenservices.com` .
+
+#### 
+
+#### Language
+
+---
+
+English and Simplified Chinese are supported. You may switch during sign in or in the app.
+
